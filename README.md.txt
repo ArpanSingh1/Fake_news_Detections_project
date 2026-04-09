@@ -1,5 +1,9 @@
 # 📰 Fake News Detection System
 
+## 🚀 Live Demo
+
+🔗 Hugging Face Deployment Link: https://arpan-singh-18-fake-news-detections.hf.space/
+
 ## 📌 Project Overview
 This project is a Machine Learning based Fake News Detection System that classifies news articles as Real or Fake using Natural Language Processing (NLP) techniques.
 
