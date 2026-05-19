@@ -28,4 +28,5 @@ The Logistic Regression model achieved an accuracy of approximately **98.5%**.
 
 ## 💻 How To Run Locally
 ```bash
+pip install -r requirements.txt
 streamlit run streamlit_app.py
